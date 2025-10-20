@@ -1,7 +1,7 @@
 
 ## Visão Geral
 
-Esta transformação do Pentaho Data Integration (PDI) é responsável por ler um arquivo CSV, processar os dados e carregar em um modelo dimensional.
+Esta pipeline construído com Pentaho Data Integration (PDI) é responsável por ler um arquivo CSV, processar os dados e carregar em um modelo dimensional.
 O fluxo é dividido em duas frentes principais: carga de tabelas de dimensão e carga de tabelas de fato.
 
 **Fonte de Dados:**
